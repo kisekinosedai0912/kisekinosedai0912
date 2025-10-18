@@ -13,7 +13,8 @@ I’m diving deeper into:
  - Express Js
  - Mongo DB
  - Node Js
- - Redux
+ - Zustand
+ - TanStack Query
  - SEO optimization
  - Material UI
  - Chakra UI
