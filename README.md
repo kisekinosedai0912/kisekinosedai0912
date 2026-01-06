@@ -20,11 +20,11 @@ I’m diving deeper into:
  - Chakra UI
  - Shadcn
 
-I am currently preparing to transition into **MERN** stack development.
+I am currently transitioning into **MERN** stack development.
 
 📧 You can contact me here:
 --
- - Email: jasperbendol0329@gmail.com
+ - Email: jasperbendol0329@gmail.com/kisekinosedai0912@gmail.com
  - LinkedIn: Jasper Bendol
 
 ___
@@ -59,7 +59,6 @@ Libraries & Tools
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
---
 **Databases**
 --
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -79,8 +78,3 @@ Libraries & Tools
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 --
-![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kisekinosedai0912&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisekinosedai0912&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
