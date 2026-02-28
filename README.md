@@ -2,25 +2,33 @@
 --
 Welcome to my GitHub profile!
 
-I’m a passionate **Full Stack Software Developer** with over a year of experience in building scalable web applications. I love the thrill of learning new things, tackle challenges, and creating solutions that bring real value to people and businesses.
+I’m a passionate **Full Stack Software Developer** with over 2 years of experience in building scalable web applications. I love the thrill of learning new things, tackle challenges, and creating solutions that bring real value to people and businesses.
 
-My journey started with **JavaScript** and **Laravel**, and has since expanded to **React.js**, **Tailwind CSS**, **Firebase**, **WebSockets**, and **REST APIs** with **Axios**. I also manage structured data with **MySQL** and gained professional experience as a **Junior CRM Developer**, where I worked with **C#** and **Microsoft Services** to deliver custom & optimized CRM systems.
+My journey started with **JavaScript** and **Laravel**, and has since expanded to **React.js**, **Tailwind CSS**, **NextJs**, **Typescript**, and **REST APIs** with **Axios**. I also manage structured data using **SQL** and **No SQL** database. I am currently employed as a **Junior Full Stack Developer** at Sourcefit Philippines. I also have experience & worked with **C#** and **Microsoft Services** to deliver custom & optimized CRM systems .
 
 **🌱 What I’m Currently Learning**
 --
 I’m diving deeper into:
- - React Js library
- - Express Js
- - Mongo DB
- - Node Js
- - Zustand
- - TanStack Query
+ - Next Js framework
+ - Typescript
+ - Serverless Achitecture
+ - Microservices
+ - Postgre SQL
+ - Temporal
+ - Relative Automation Tools
  - SEO optimization
- - Material UI
- - Chakra UI
- - Shadcn
+ - Docker
+ - Monorepo Development Collaboration
+ - Nx Workspace
 
-I am currently transitioning into **MERN** stack development.
+My current Tech Stack includes:
+ - Next Js
+ - Typescript
+ - Drizzle ORM
+ - Neon
+ - CI/CD pipeplines
+ - Automation Workflows (Temporal)
+ - Docker Containerization
 
 📧 You can contact me here:
 --
@@ -32,6 +40,7 @@ ___
 --
 **Languages & Frameworks**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -39,6 +48,7 @@ ___
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -51,6 +61,9 @@ Libraries & Tools
 --
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-00CFFF?style=for-the-badge&logo=react&logoColor=000000)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -63,10 +76,14 @@ Libraries & Tools
 --
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neondatabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 --
 **Cloud & Services**
 --
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00CFFF)
