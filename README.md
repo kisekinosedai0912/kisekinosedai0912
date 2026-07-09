@@ -6,7 +6,7 @@ I’m a passionate **Full Stack Software Developer** with over 2 years of experi
 
 My journey started with **JavaScript** and **Laravel**, and has since expanded to **React.js**, **NextJs**, **Typescript**, **REST APIs**, **Serverless Architecture**, & **Event Driven Microservices**. I have also managed structured data using **SQL** & **PostgresSQL** as well as **No SQL** such as **MongoDB**. I also have experience & worked with **C#** and **Microsoft Services** to deliver custom & optimized CRM systems.
 
-I am currently employed as a **Junior Full Stack Developer** at Sourcefit Philippines leading the transition of the current **Monolithic Architecture** into an **Event Driven Microservices Architecture**. My work focuses on building scalable backend systems, improving application performance, and delivering intuitive, user-focused experiences. I also develop and maintain data processing pipelines & web scraping solutions across multiple platforms using **Playwright** and **Browserless**. By building custom scraping infrastructure from the ground up, I've eliminated the need for third-party platforms such as Apify, giving the team greater flexibility, control, and cost efficiency.
+I am currently employed as a **Full Stack Developer** at Sourcefit Philippines leading the transition of the current **Monolithic Architecture** into an **Event Driven Microservices Architecture**. My work focuses on building scalable backend systems, improving application performance, and delivering intuitive, user-focused experiences. I also develop and maintain data processing pipelines & web scraping solutions across multiple platforms using **Playwright** and **Browserless**. By building custom scraping infrastructure from the ground up, I've eliminated the need for third-party platforms such as Apify, giving the team greater flexibility, control, and cost efficiency.
 
 **🌱 What I’m Currently Learning**
 --
@@ -105,6 +105,7 @@ Libraries & Tools
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=FFFFFF)
 ![Inngest](https://img.shields.io/badge/Inngest-1A1A1A?style=for-the-badge&logo=inngest&logoColor=FFFFFF)
+![Infisical](https://img.shields.io/badge/Infisical-0C0C0C?style=for-the-badge&logo=infisical&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
