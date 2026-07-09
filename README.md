@@ -1,39 +1,43 @@
-**👋 Hey there, fellow devs! I'm Jasper Bendol**
+**👋 Hey there, fellow devs! Jasper here!**
 --
 Welcome to my GitHub profile!
 
-I’m a passionate **Full Stack Software Developer** with over 2 years of experience in building scalable web applications. I love the thrill of learning new things, tackle challenges, and creating solutions that bring real value to people and businesses.
+I’m a passionate **Full Stack Software Developer** with over 2 years of experience in building scalable web applications. I love the thrill of learning new things, solving challenges, and creating solutions that bring real value to people and businesses.
 
-My journey started with **JavaScript** and **Laravel**, and has since expanded to **React.js**, **Tailwind CSS**, **NextJs**, **Typescript**, and **REST APIs** with **Axios**. I also manage structured data using **SQL** and **No SQL** database. I am currently employed as a **Junior Full Stack Developer** at Sourcefit Philippines. I also have experience & worked with **C#** and **Microsoft Services** to deliver custom & optimized CRM systems .
+My journey started with **JavaScript** and **Laravel**, and has since expanded to **React.js**, **NextJs**, **Typescript**, **REST APIs**, **Serverless Architecture**, & **Event Driven Microservices**. I have also managed structured data using **SQL** & **PostgresSQL** as well as **No SQL** such as **MongoDB**. I also have experience & worked with **C#** and **Microsoft Services** to deliver custom & optimized CRM systems.
+
+I am currently employed as a **Junior Full Stack Developer** at Sourcefit Philippines leading the transition of the current **Monolithic Architecture** into an **Event Driven Microservices Architecture**. My work focuses on building scalable backend systems, improving application performance, and delivering intuitive, user-focused experiences. I also develop and maintain data processing pipelines & web scraping solutions across multiple platforms using **Playwright** and **Browserless**. By building custom scraping infrastructure from the ground up, I've eliminated the need for third-party platforms such as Apify, giving the team greater flexibility, control, and cost efficiency.
 
 **🌱 What I’m Currently Learning**
 --
 I’m diving deeper into:
- - Next Js framework
+ - Event Driven Microservices Architecture
+ - Time Complexity Optimization
  - Typescript
  - Serverless Achitecture
- - Microservices
- - Postgre SQL
- - Temporal
- - Relative Automation Tools
+ - CQRS & Event Sourcing Pattern Integrations
+ - Automation & Automated Workflows
+ - Infrastracture as Code
+ - Workflow as Code
  - SEO optimization
  - Docker
- - Monorepo Development Collaboration
- - Nx Workspace
 
 My current Tech Stack includes:
  - Next Js
+ - Node Js
  - Typescript
  - Drizzle ORM
  - Neon
+ - Terraform
+ - Inngest
+ - Temporal
  - CI/CD pipeplines
- - Automation Workflows (Temporal)
- - Docker Containerization
+ - Docker 
 
 📧 You can contact me here:
 --
  - Email: jasperbendol0329@gmail.com/kisekinosedai0912@gmail.com
- - LinkedIn: Jasper Bendol
+ - LinkedIn: [Jasper Bendol](https://www.linkedin.com/in/jasper-bendol-3532aa407/)
 
 ___
 **🚀 Tech Stack**
@@ -45,9 +49,11 @@ ___
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -64,6 +70,8 @@ Libraries & Tools
 ![Zustand](https://img.shields.io/badge/Zustand-00CFFF?style=for-the-badge&logo=react&logoColor=000000)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+![Tabularis](https://img.shields.io/badge/Tabularis-4B5563?style=for-the-badge)
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=FFFFFF)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -90,11 +98,14 @@ Libraries & Tools
 --
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=FFFFFF)
 ![Inngest](https://img.shields.io/badge/Inngest-1A1A1A?style=for-the-badge&logo=inngest&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00CFFF)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=FFFFFF)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 --
 **Other Tools**
 --
