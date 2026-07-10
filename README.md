@@ -104,6 +104,7 @@ Libraries & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=FFFFFF)
 ![Inngest](https://img.shields.io/badge/Inngest-1A1A1A?style=for-the-badge&logo=inngest&logoColor=FFFFFF)
 ![Infisical](https://img.shields.io/badge/Infisical-0C0C0C?style=for-the-badge&logo=infisical&logoColor=white)
